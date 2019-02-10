@@ -1,0 +1,2377 @@
+{
+    "listapp1": {
+        "type": "template",
+        "altText": "Devices",
+        "template": {
+            "type": "carousel",
+            "actions": [],
+            "columns": [
+                {
+                    "thumbnailImageUrl": "https://cdn.dribbble.com/users/287797/screenshots/2406073/watch_me.gif",
+                    "imageBackgroundColor": "#002727",
+                    "title": "YOUTUBE CHANNEL",
+                    "text": "Silahkan klik subcrabe untuk berlangganan secara gratis",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "CHANNEL APP",
+                            "uri": "line://app/1623679774-9GWpqpGw"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "SUBSCRABE",
+                            "uri": "https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://lh3.googleusercontent.com/HLiybXI4a0kOZwRt85jy81jsEcb2ptHivjt4SyOEjvub2IhsREXZYP0W6nIj4TTdvw",
+                    "imageBackgroundColor": "#002727",
+                    "title": "X_VIDEOS 81+",
+                    "text": "khusu indo pakai vpn bukanya wkwkwk",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://app/1609524990-1jLXNPLN"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "OPEN OKEP",
+                            "uri": "line://app/1609524990-1jLXNPLN"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "INSTALL VPN",
+                            "uri": "https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://cdn.dribbble.com/users/293796/screenshots/3438995/fb-likes.gif",
+                    "imageBackgroundColor": "#002727",
+                    "title": "HOME FACEBOOK",
+                    "text": "aplikasi facebook lite",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://ti/p/~adiputra.97"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "FACEBOOK",
+                            "uri": "line://app/1609524990-mpvZ5xv5"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "REQUEST LIFF",
+                            "uri": "line://ti/p/~adiputra.95"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://cdn.dribbble.com/users/640742/screenshots/2631862/2016-04-04.gif",
+                    "imageBackgroundColor": "#002727",
+                    "title": "PLAYSTORE & SOUNDCLOUD",
+                    "text": "klik disini",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://app/1623679774-qmmXPXJ5"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "GOOGLE PLAY",
+                            "uri": "line://app/1623679774-qmmXPXJ5"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "SOUNDCLOUD",
+                            "uri": "line://app/1623679774-lGOq9q3G"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://3.bp.blogspot.com/-5p6QJyOsxFU/Vrt-7HfarjI/AAAAAAAACqY/SblUkK8sirA/s1600/despicable%2Bme%2B2-%2B01.gif",
+                    "imageBackgroundColor": "#002727",
+                    "title": "MY PRANKBOTS",
+                    "text": "add kontak di bawah ini guys",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://ti/p/~adiputra.95"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "LINE ME",
+                            "uri": "line://ti/p/~adiputra.95"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "OFFICIAL",
+                            "uri": "line://ti/p/~@gnh2780p"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "listapp2": {
+        "type": "template",
+        "altText": "LIST_APP",
+        "template": {
+            "type": "carousel",
+            "actions": [],
+            "columns": [
+                {
+                    "thumbnailImageUrl": "https://4.bp.blogspot.com/--v3eJySaEAc/WJ3h-xv71cI/AAAAAAAAAS4/MpCkvEUtcUQOb2Whl1JE9T6hoMHLhYFzQCLcB/s1600/road-rash.gif",
+                    "title": "HIGHWAY",
+                    "text": "game online gratis",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://app/1623679774-j4rZkZ51"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "MAINKAN",
+                            "uri": "line://app/1623679774-j4rZkZ51"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "GAME LAINYA",
+                            "uri": "line://app/1609524990-ODaJ0Va0"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://4.bp.blogspot.com/-z8E8S4aUma4/W4FW08PDxXI/AAAAAAAAF68/CaALDedJN1EAi9U6ygS4R_1viuvkKQwbACLcBGAs/s1600/PicsArt_08-25-08.14.43.gif",
+                    "imageBackgroundColor": "#FFFFFF",
+                    "title": "SMULE_ID",
+                    "text": "Sing! Smule",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://app/1623679774-rAvzDz16"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "SMULE VOG",
+                            "uri": "line://app/1623679774-rAvzDz16"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "SMULE WEB",
+                            "uri": "line://app/1609524990-GgOweZOe"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://perpetualbeta.vcfa.edu/wp-content/uploads/2016/05/VCFADesign_Twitter_Instagram.gif",
+                    "imageBackgroundColor": "#FFFFFF",
+                    "title": "INSTAGRAM & TWITTER",
+                    "text": "SOSIAL MEDIA",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://ti/p/~adiputra.95"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "INSTAGRAM",
+                            "uri": "line://app/1609524990-2pakJ9aJ"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "TWITTER",
+                            "uri": "line://app/1609524990-P4ajo8ao"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://raw.githubusercontent.com/prankbots/logo/master/20181227_003531.jpg",
+                    "imageBackgroundColor": "#FFFFFF",
+                    "title": "LOGO NAME ONLINE",
+                    "text": "klik disini untuk membuat",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://app/1609524990-pdlOGglG"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "CREATE LOGO",
+                            "uri": "line://app/1609524990-pdlOGglG"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "TEKS FANCY",
+                            "uri": "line://app/1609524990-gD4e2X42"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://4.bp.blogspot.com/-a-B8IZ3ST70/WE_QklRe2YI/AAAAAAAFMt4/mVy0NIudtD4LyQUD9CY82JuM9HM37uGeQCLcB/s1600/AW293929_01.gif",
+                    "imageBackgroundColor": "#FAFAFA",
+                    "title": "SEND STICKER GIF",
+                    "text": "LINE STICKER",
+                    "defaultAction": {
+                        "type": "uri",
+                        "uri": "line://ti/p/~adiputra.95"
+                    },
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "GIF STICKER",
+                            "uri": "line://app/1623679774-k9nBDB6b?type=sticker&stk=anim&sid=36276468&pkg=3259824"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "IMG STICKER",
+                            "uri": "line://app/1623679774-k9nBDB6b?type=sticker&stk=noanim&sid=36276468&pkg=3259824"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "booble": {
+        "type": "template",
+        "altText": "membagikan sempak bolong",
+        "template": {
+            "type": "carousel",
+            "actions": [],
+            "columns": [
+                {
+                    "thumbnailImageUrl": "https://1.bp.blogspot.com/-0cJUYiIj9So/Wg_statUjsI/AAAAAAAAK1k/6L1sY5xJEIUfi-8hxW6KuKBSy6jiVoChQCLcBGAs/s1600/Casey_Youtube_GIF.0.gif",
+                    "title": "℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́",
+                    "text": "REPOSITORY",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "YOUTUBE",
+                            "uri": "line://app/1623679774-9GWpqpGw"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "OWNER",
+                            "uri": "http://line.me/ti/p/~adiputra.95"
+                        }
+                    ]
+                },
+                {
+                    "thumbnailImageUrl": "https://preview.ibb.co/ksscEq/1541434980556.jpg",
+                    "title": "✰[R̶T̶B̶] ᎢᎬᎪᎷ ᏴᎾᎢᏚ✰",
+                    "text": "FARTHNER",
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "label": "RTB CREATOR",
+                            "uri": "http://line.me/ti/p/~rafly_cf"
+                        },
+                        {
+                            "type": "uri",
+                            "label": "RTB PROFILE",
+                            "uri": "line://nv/profilePopup/mid=ucbb8f5fbab3d465cd9c071e46fede33e"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "pricelist": {
+        "type": "flex",
+        "altText": "PRANKBOTS STORE",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#333333"
+                },
+                "hero": {
+                    "backgroundColor": "#333333"
+                },
+                "body": {
+                    "backgroundColor": "#333333",
+                    "separator": true,
+                    "separatorColor": "#333333"
+                },
+                "footer": {
+                    "backgroundColor": "#333333",
+                    "separator": true
+                }
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/Aprank/botkicker/master/prankbots.png",
+                "size": "full",
+                "aspectRatio": "3:1"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "    ★ PRICE LIST ★",
+                        "weight": "bold",
+                        "color": "#1DB446",
+                        "size": "sm"
+                    },
+                    {
+                        "type": "text",
+                        "text": "●PankBots Store●",
+                        "weight": "bold",
+                        "size": "xxl",
+                        "margin": "md"
+                    },
+                    {
+                        "type": "text",
+                        "text": "creator by acil , made in indonesian",
+                        "size": "xs",
+                        "color": "#aaaaaa",
+                        "wrap": true
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "xxl"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "xxl",
+                        "spacing": "sm",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "1 bot",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Rp.50,000",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "3 bot",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Rp.100,000",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "5 bot",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Rp.200,000",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "7 bot",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Rp.280,000",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "9 bot",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Rp.380,000",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "11 bot",
+                                        "size": "sm",
+                                        "color": "#aaaaaa",
+                                        "flex": 0
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Rp.450,000",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "separator",
+                                "margin":"md"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "FEATURE",
+                                        "size": "sm",
+                                        "color": "#C00006"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "STATUS",
+                                        "size": "sm",
+                                        "color": "#C00006",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "separator",
+                                "margin": "md"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ᴀɴᴛɪ ᴊs",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ᴘʀᴏᴛᴇᴄᴛɪᴏɴ",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ᴍᴇᴅɪᴀ",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ᴛᴇᴍᴘʟᴀᴛᴇs",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ʀᴇᴠᴏᴋᴇ",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✖",
+                                        "size": "sm",
+                                        "color": "#F7141F",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ᴀᴜᴛᴏ ʀᴜɴɴᴇʀ",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ʟɪғғ ᴀᴘᴘ",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "✔",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "sᴘᴇᴇᴅ ᴜᴘ",
+                                        "size": "sm",
+                                        "color": "#aaaaaa"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "0,006-0,008",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            },
+                            {
+                                
+                                "type": "box",
+                                "layout": "horizontal",
+                                "margin": "xxl",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "ʙᴏᴛ ᴡᴀʀ",
+                                        "size": "sm",
+                                        "color": "#F7141F"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "60ᴋ/ʙᴏᴛ",
+                                        "size": "sm",
+                                        "color": "#10CF08",
+                                        "align": "end"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "xxl"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "PEMESANAN BOT",
+                                "size": "xs",
+                                "color": "#10CF08",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "PEMESANAN VPS",
+                                "color": "#10CF08",
+                                "size": "xs",
+                                "align": "end"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "margin": "md",
+                        "contents": [
+                            {
+                                "type": "spacer",
+                                "size": "xl"
+                            },
+                            {
+                                "type": "button",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "KLIK DISINI",
+                                    "uri": "line://ti/p/~adiputra.95"
+                                },
+                                "style": "primary",
+                                "color": "#10CF08"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "owner": {
+        "type": "flex",
+        "altText": "list_app_channel",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#000000"
+                },
+                "body": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#000000"
+                },
+                "footer": {
+                    "backgroundColor": "#708090",
+                    "separator": true
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "md",
+                "contents": [
+                    {
+                        "type": "button",
+                        "style": "primary",
+                        "action": {
+                            "type": "uri",
+                            "label": "BUTTON 1",
+                            "uri": "https://example.com"
+                        }
+                    },
+                    {
+                        "type": "button",
+                        "style": "secondary",
+                        "action": {
+                            "type": "uri",
+                            "label": "BUTTON 2",
+                            "uri": "https://example.com"
+                        }
+                    },
+                    {
+                        "type": "button",
+                        "style": "link",
+                        "action": {
+                            "type": "uri",
+                            "label": "BUTTON 3",
+                            "uri": "https://example.com"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "block": {
+        "type": "flex",
+        "altText": "CHANNEL",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#000000"
+                },
+                "body": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#000000"
+                },
+                "hero": {
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "backgroundColor": "#000000",
+                    "separator": true
+                }
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/Aprank/botkicker/master/prankbots.png",
+                "size": "full",
+                "aspectRatio": "3:1"
+            },
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "☆• WE ARE PRANKBOT TEAM •☆",
+                        "color": "#00ffff"
+                        
+                    }
+                ]
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "BODY",
+                        "color": "#10CF08"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "BUTTON",
+                        "color": "#F7141F"
+                    }
+                ]
+            }
+        }
+    },
+    "filler": {
+        "type": "flex",
+        "altText": "CHANNEL",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#000000"
+                },
+                "hero": {
+                    "backgroundColor": "#000000"
+                },
+                "body": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#000000"
+                },
+                "footer": {
+                    "backgroundColor": "#000000",
+                    "separator": true
+                }
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://lh5.googleusercontent.com/-lELboYeeEfs/AAAAAAAAAAI/AAAAAAAAGJw/-BOZ4A0UpEc/photo.jpg",
+                "size": "full",
+                "aspectRatio": "2:1"
+            },
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRojbvSsQmY-XGX7fxO4wW-NpVTJ3pu82zmIHcgKmBmNs6I9YxU"
+                    },
+                    {
+                        "type": "filler"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://preview.ibb.co/ksscEq/1541434980556.jpg"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "margin": "md",
+                "contents": [
+                    {
+                        "type": "spacer",
+                        "size": "xl"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "prankbots",
+                            "uri": "http://line.me/ti/p/~adiputra.95"
+                        },
+                        "style": "primary",
+                        "color": "#F7141F"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "RTB",
+                            "uri": "http://line.me/ti/p/~rafly_cf"
+                        },
+                        "style": "primary",
+                        "color": "#00ff7f"
+                    }
+                ]
+            },
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "_______ TEAM PRANKBOTS ______",
+                        "color": "#F7141F"
+                        
+                    }
+                ]
+            }
+        }
+    },
+    "color1": {
+        "type": "flex",
+        "altText": "CHANNEL",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#000000"
+                },
+                "body": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#000000"
+                },
+                "footer": {
+                    "backgroundColor": "#000000",
+                    "separator": true
+                }
+            },
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "KODE WARNA HTML PART 1",
+                        "color": "#00ffff"
+                        
+                    }
+                ]
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FOF8FF&text=FOF8FF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FAEBD7&text=FAEBD7",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00FFFF&text=00FFFF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/7FFFD4&text=7FFFD4",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F0FFFF&text=F0FFFF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F5F5DC&text=F5F5DC",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFE4C4&text=FFE4C4",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/000000&text=000000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFEBCD&text=FFEBCD",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/0000FF&text=0000FF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/8A2BE2&text=8A2BE2",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/A52A2A&text=A52A2A",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DEB887&text=DEB887",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/5F9EAD&text=5F9EAD",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/7FFF00&text=7FFF00",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/D2691E&text=D2691E",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF7F50&text=FF7F50",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/649500&text=649500",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFF8DC&text=FFF8DC",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DC143C&text=DC143C",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00FFFF&text=00FFFF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00008B&text=00008B",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/B8860B&text=B8860B",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/A9A9A9&text=A9A9A9",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/006400&text=006400",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/8B008B&text=8B008B",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/BDB76B&text=BDB76B",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/556B2F&text=556B2F",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF8C00&text=FF8C00",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/9932CC&text=9932CC",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/8B0000&text=8B0000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/E9967A&text=E9967A",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/8FBC8B&text=8FBC8B",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/2F4F4F&text=2F4F4F",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/483D8B&text=483D8B",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00CED1&text=00CED1",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/9400D3&text=9400D3",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF1493&text=FF1493",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00BFFF&text=00BFFF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/696969&text=696969",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/1E90FF&text=1E90FF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/B22222&text=B22222",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFAF0&text=FFFAF0",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/228B22&text=228B22",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF00FF&text=FF00FF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DCDCDC&text=DCDCDC",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F8F8FF&text=F8F8FF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFD700&text=FFD700",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DAA520&text=DAA520",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/808080&text=808080",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/008000&text=008000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/ADFF2F&text=ADFF2F",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F0FFF0&text=F0FFF0",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF69B4&text=FF69B4",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/CD5C5C&text=CD5C5C",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/4B0082&text=4B0082",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFFF0&text=FFFFF0",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F0E68C&text=F0E68C",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/E6E6FA&text=E6E6FA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFF0F5&text=FFF0F5",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/7CFC00&text=7CFC00",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFACD&text=FFFACD",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/ADE8E6&text=ADE8E6",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F08080&text=F08080",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/E0FFFF&text=E0FFFF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FAFAD2&text=FAFAD2",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/90EE90&text=90EE90",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/D3D3D3&text=D3D3D3",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFB6C1&text=FFB6C1",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFA072&text=FFA072",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/20B2AA&text=20B2AA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/87CEFA&text=87CEFA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/778899&text=778899",
+                        "size": "full"
+                    }
+                ]
+            }
+        }
+    },
+    "color2": {
+        "type": "flex",
+        "altText": "CHANNEL",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#000000"
+                },
+                "body": {
+                    "backgroundColor": "#000000",
+                    "separator": true,
+                    "separatorColor": "#000000"
+                },
+                "footer": {
+                    "backgroundColor": "#000000",
+                    "separator": true
+                }
+            },
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "KODE WARNA HTML PART 2",
+                        "color": "#00ffff"
+                        
+                    }
+                ]
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/B0C4DE&text=B0C4DE",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFFE0&text=FFFFE0",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00FF00&text=00FF00",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/32CD32&text=32CD32",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FAF0E6&text=FAF0E6",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF00FF&text=FF00FF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/800000&text=800000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/66CDAA&text=66CDAA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/0000CD&text=0000CD",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/BA55D3&text=BA55D3",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/9370DB&text=9370DB",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/3CB371&text=3CB371",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/7B68EE&text=7B68EE",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00FA9A&text=00FA9A",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/48D1CC&text=48D1CC",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/C71585&text=C71585",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/191970&text=191970",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F5FFFA&text=F5FFFA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFE4E1&text=FFE4E1",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFDEAD&text=FFDEAD",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FDF5E6&text=FDF5E6",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/000080&text=000080",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/808000&text=808000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/6B8E23&text=6B8E23",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFA500&text=FFA500",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF1000&text=FF1000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DA70D6&text=DA70D6",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/EEE8AA&text=EEE8AA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/98FB98&text=98FB98",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/AFEEEE&text=AFEEEE",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DB7093&text=DB7093",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFEFD5&text=FFEFD5",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFDAB9&text=FFDAB9",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/CD853F&text=CD853F",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFC0CB&text=FFC0CB",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/DDA0DD&text=DDA0DD",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/B0E0E6&text=B0E0E6",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/800080&text=800080",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF0000&text=FF0000",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/BC8F8F&text=BC8F8F",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/4169E1&text=4169E1",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/8B4513&text=8B4513",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FA8072&text=FA8072",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F4A460&text=F4A460",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/2E8B57&text=2E8B57",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFF5EE&text=FFF5EE",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/A0522D&text=A0522D",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/C0C0C0&text=C0C0C0",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/87CEEB&text=87CEEB",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/708090&text=708090",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFAFA&text=FFFAFA",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/00FF7F&text=00FF7F",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/4682B4&text=4682B4",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/D2B48C&text=D2B48C",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/008080&text=008080",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/D8BFD8&text=D8BFD8",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FF6347&text=FF6347",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/40E0D0&text=40E0D0",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/EE82EE&text=EE82EE",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F5DEB3&text=F5DEB3",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFFFF&text=FFFFFF",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/F5F5F5&text=F5F5F5",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/FFFF00&text=FFFF00",
+                        "size": "full"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://via.placeholder.com/140x140/9ACD32&text=9ACD32",
+                        "size": "full"
+                    }
+                ]
+            }
+        }
+    },
+    "help": {
+        "type": "flex",
+        "altText": "TOLOOOONG.!!",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "header": {
+                    "backgroundColor": "#002727",
+                    "separator": true,
+                    "separatorColor": "#002727"
+                },
+                "hero": {
+                    "backgroundColor": "#002727",
+                    "separator": true,
+                    "separatorColor": "#002727"
+                },
+                "body": {
+                    "backgroundColor": "#002727",
+                    "separator": true,
+                    "separatorColor": "#002727"
+                },
+                "footer": {
+                    "backgroundColor": "#002727",
+                    "separator": true,
+                    "separatorColor": "#002727"
+                }
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/Aprank/botkicker/master/prankbots.png",
+                "size": "full",
+                "aspectRatio": "3:1"
+            },
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "☆ • WE ARE PRANKBOT TEAM • ☆",
+                        "color": "#F7141F"
+                        
+                    }
+                ]
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "• SELFBOT | SELFPRO | PROTECT  •",
+                        "color": "#F7141F"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅖🅔🅣🅜🅔🅓🅘🅐",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Media"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅖🅔🅣🅢🅔🅣🅣🅘🅝🅖",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Settings"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅐🅛🅠🅤🅡🅐🅝",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Qur'anlist"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅖🅔🅣🅢🅔🅛🅕",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Myhelp"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅖🅔🅣🅚🅘🅒🅚🅔🅡",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Helpbots"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅖🅔🅣🅖🅡🅞🅤🅟",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Helpgroup"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅖🅔🅣🅢🅣🅐🅣🅤🅢",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Set"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅖🅔🅣🅥🅞🅘🅒🅔",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=voice"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅖🅔🅣🅐🅟🅟",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Listapp"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "center",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅟🅡🅘🅒🅔🅛🅘🅢🅣",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Pricelist"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#BE1700",
+                                "height": "sm",
+                                "gravity": "top",
+                                "flex": 1,
+                                "action": {
+                                    "type": "uri",
+                                    "label": "🅖🅐🅛🅔🅡🅨",
+                                    "uri": "line://app/1623679774-k9nBDB6b?type=text&text=GALERI"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "align": {
+        "type": "flex",
+        "altText": "FLEX ALIGN",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "body": {
+                    "backgroundColor": "#142700",
+                    "separator": true,
+                    "separatorColor": "#81FF00"
+                },
+                "header": {
+                    "backgroundColor": "#142700",
+                    "separator": true,
+                    "separatorColor": "#81FF00"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "image",
+                                "url": "https://avatars0.githubusercontent.com/u/33993971?s=460&v=4",
+                                "aspectRatio": "3:4",
+                                "flex": 1,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "separator"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://avatars0.githubusercontent.com/u/33993971?s=460&v=4",
+                                "aspectRatio": "3:4",
+                                "flex": 1,
+                                "gravity": "center"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "PRANKBOTS_V1",
+                                "color": "#F7141F",
+                                "flex": 1,
+                                "gravity": "center",
+                                "action": {
+                                    "type": "uri",
+                                    "uri": "http://line.me/ti/p/~adiputra.95"
+                                }
+                            },
+                            {
+                                "type": "separator"
+                            },
+                            {
+                                "type": "text",
+                                "text": "PRANKBOTS_V2",
+                                "color": "#81FF00",
+                                "flex": 1,
+                                "gravity": "center",
+                                "action": {
+                                    "type": "uri",
+                                    "uri": "http://line.me/ti/p/~adiputra.95"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "header": {
+                "type": "box",
+                "layout": "horizontal",
+                "spacing": "md",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://preview.ibb.co/ksscEq/1541434980556.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://avatars0.githubusercontent.com/u/33993971?s=460&v=4"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://preview.ibb.co/ksscEq/1541434980556.jpg"
+                    }
+                ]
+            }
+        }
+    },
+    "spaces": {
+        "type": "flex",
+        "altText": "FLEX ALIGN",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "body": {
+                    "backgroundColor": "#142700",
+                    "separator": true,
+                    "separatorColor": "#81FF00"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "spacing": "md",
+                "contents": [
+                    {
+                        "type": "image",
+                        "url": "https://avatars0.githubusercontent.com/u/33993971?s=460&v=4"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://avatars0.githubusercontent.com/u/33993971?s=460&v=4"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://avatars0.githubusercontent.com/u/33993971?s=460&v=4"
+                    }
+                ]
+            }
+        }
+    },
+    "galery": {
+        "type": "flex",
+        "altText": "GALERY",
+        "contents": {
+            "type": "bubble",
+            "styles": {
+                "body": {
+                    "backgroundColor": "#002727",
+                    "separator": true,
+                    "separatorColor": "#002727"
+                },
+                "footer": {
+                    "backgroundColor": "#002727",
+                    "separator": true,
+                    "separatorColor": "#002727"
+                }
+            },
+            "hero": {
+                "type": "image",
+                "url": "https://raw.githubusercontent.com/Aprank/logo/master/20181215_052531.png",
+                "size": "full",
+                "aspectRatio": "20:13",
+                "aspectMode": "cover",
+                "action": {
+                    "type": "uri",
+                    "uri": "https://line.me/ti/p/~adiputra.95"
+                }
+            },
+            "body": {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "image",
+                                "url": "https://cdn.apk-cloud.com/detail/screenshot/7-wgkI_8WmSuzUFkTtaExC_PKHm7cb_e88ordYgOyoqHj3t8zEaM7KMWEabiW5vQ7nU=h900.png",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "text",
+                                "text": "aplikasi musik joox",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🅼🆄🆂🅸🅺🅹🅾🅾🆇",
+                                   "uri": "line://app/1623679774-z6dOvOV9"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://2.bp.blogspot.com/-tLtzNNcX-K0/WGHiJO6KWTI/AAAAAAAAAGc/hrXIfmLMZjkpx4WV00XDODB_tbAdJnzaQCPcB/s1600/Logo%2BGoogle%2BChrome.png",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "text",
+                                "text": "aplikasi pencarian janda/duda di google",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🅿🅴🅽🅲🅰🆁🅸🅰🅽",
+                                   "uri": "line://app/1623679774-3vDKkKaP"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://youtubelagu.com/wp-content/uploads/2018/05/logo-youtubelagu.com_.png",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "text",
+                                "text": "aplikasi lirik musik",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🅻🅸🆁🅸🅺🅻🅰🅶🆄",
+                                   "uri": "line://app/1623679774-oYnAvAdW"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://cdn6.aptoide.com/imgs/b/9/7/b978f1ae85ede4ebb04949985fd55691_icon.png?w=256",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "text",
+                                "text": "aplikasi buat ngedit foto tapi ini bukan pictart ya guys cuma di logonya aja",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🅴🅳🅸🆃🅵🅾🆃🅾",
+                                   "uri": "line://app/1623679774-1pKn8ngr"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://upload.wikimedia.org/wikipedia/id/8/8d/Calendar_Icon.png",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "text",
+                                "text": "kalo ada yang pikun sama tanggal tinggal cek disini",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🅺🅰🅻🅴🅽🅳🅴🆁",
+                                   "uri": "line://app/1623679774-YvdwxwV3"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://cdn6.aptoide.com/imgs/6/e/a/6ea2ccc96ffd163017ccb5e4c43c2f68_icon.png?w=240",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "center"
+                            },
+                            {
+                                "type": "text",
+                                "text": "aplikasi notepad buat nyatetin mantan mantan kamu tuh guys",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🅽🅾🆃🅴🅿🅰🅳",
+                                   "uri": "line://app/1623679774-pXJyQy1D"
+                                }
+                            },
+                            {
+                                "type": "separator",
+                                "color": "#002727"
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://karpetbagus.com/wp-content/uploads/2015/01/an-msdn-tv-logo.png",
+                                "aspectRatio": "3:4",
+                                "flex": 2,
+                                "gravity": "top"
+                            },
+                            {
+                                "type": "text",
+                                "text": "kalo tv kamu di rumah lagi di gadein masih bisa nonton disini dan ini untuk semua channel tv",
+                                "color": "#999999",
+                                "size": "xs",
+                                "weight": "bold",
+                                "flex": 3,
+                                "wrap": true,
+                                "gravity": "center",
+                                "align": "center"
+                            },
+                            {
+                                "type": "button",
+                                "style": "secondary",
+                                "color": "#00D116",
+                                "height": "sm",
+                                "gravity": "top",
+                                "action": {
+                                   "type": "uri",
+                                   "label": "🆃🆅🅾🅽🅻🅸🅽🅴",
+                                   "uri": "line://app/1623679774-WVajRjDn"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [{
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                        {
+                            "type": "button",
+                            "margin": "sm",
+                            "style": "primary",
+                            "color": "#E51A00",
+                            "height": "sm",
+                            "action": {
+                                "type": "uri",
+                                "label": "🅼🆈🆃🆄🅱🅴",
+                                "uri": "https://bit.ly/2xbVxlh"
+                            }
+                        }
+                    ]
+                }]
+            }
+        }
+    }
+}
