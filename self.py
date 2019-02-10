@@ -666,7 +666,6 @@ def bot(op):
       print(op)
 while True:
   try:
-    autoRestart()
     ops=oepoll.singleTrace(count=50)
     if ops != None:
       for op in ops: 
