@@ -16,7 +16,7 @@ from humanfriendly import format_timespan, format_size, format_number, format_le
 import time, random, sys, json, codecs, threading, glob, re, string, os, requests, subprocess, six, ast, urllib, urllib.parse,youtube_dl,pafy,timeit,atexit
 _session = requests.session()
 Server_v1 = "BIZANDROID 1.7.2 ANDROID OS 8.1.0"
-me = LINE("EzWyMOEiwFB28WgMaPcf.SiqLmQmBNzMfBpjzcXFtpW.8cbYTKdTH\u002biIDwfZyNRTJUCLGJ\u002bKB4efUhGQsaDp9qyMzowt4g9HSYCJJPZlWd/z.aaaaBa",appName=Server_v1)
+me = LINE("token oa ",appName=Server_v1)
 me.log("Auth Token : " + str(me.authToken))
 channelToken = me.getChannelResult()
 oepoll = OEPoll(me)
